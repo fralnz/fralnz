@@ -1,4 +1,4 @@
-## Hi there 👋
+z## Hi there 👋
 
 <!--
 **fralnz/fralnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - 🔭 I'm studying CS
+ - ![Static Badge](https://img.shields.io/badge/Rust%2C%20Rust%2C%20orange)
+ -  - 🌱 I'm learning: 
