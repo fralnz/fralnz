@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  - 🔭 I'm studying CS
- - ![Static Badge](https://img.shields.io/badge/Rust-orange?logo=rust)
- -  - 🌱 I'm learning: 
+ - ![Static Badge](https://img.shields.io/badge/Rust-orange?logo=rust) ![Static Badge](https://img.shields.io/badge/Java-red?logo=java)
+ - 🌱 I'm learning: 
