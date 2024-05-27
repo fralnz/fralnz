@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 🔭 I'm studying CS
- - ![Static Badge](https://img.shields.io/badge/Rust-orange?logo=rust) ![Static Badge](https://img.shields.io/badge/Java-red?logo=java)
- - 🌱 I'm learning: 
+ - Proficient in: ![Static Badge](https://img.shields.io/badge/Java-red?logo=openjdk) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+ - Currently learning: ![Static Badge](https://img.shields.io/badge/Rust-orange?logo=rust) ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
